@@ -190,7 +190,7 @@ if (isset($_SESSION['gcCart'])){
     
     <div class="footer-widget">
       <div class="container">
-        <p>You can modify this section using your own personal information</p>
+        <p> </p>
         <div class="row">
           <div class="col-sm-3">
             <div class="single-widget">
