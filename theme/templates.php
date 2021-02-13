@@ -50,7 +50,7 @@ if (isset($_SESSION['gcCart'])){
             <div class="contactinfo">
               <ul class="nav nav-pills">
                 <li><a href="#"><i class="fa fa-phone"></i> +2 95 01 88 821</a></li>
-                <li><a href="#"><i class="fa fa-envelope"></i> jannopalacios@gmail.com</a></li>
+                <li><a href="#"><i class="fa fa-envelope"></i> mudassirneyaz@gmail.com</a></li>
               </ul>
             </div>
           </div>
@@ -251,8 +251,8 @@ if (isset($_SESSION['gcCart'])){
     <div class="footer-bottom">
       <div class="container">
         <div class="row">
-          <p class="pull-left">Modified by <span><a href="https://bit.ly/2LPn9Wu">Janobe Source Code</a></span></p>
-          <p class="pull-right">Designed by <span><a target="_blank" href="http://www.themeum.com">Themeum</a></span></p>
+          <p class="pull-left">Modified by <span><a href="https://bit.ly/2LPn9Wu">Web Village</a></span></p>
+          <p class="pull-right">Designed by <span><a target="_blank" href="http://www.themeum.com">Mudassir Neyaz</a></span></p>
         </div>
       </div>
     </div>

@@ -44,7 +44,7 @@ require_once("../include/initialize.php");
 					</div>
 
 					<span class="login100-form-title p-t-20 p-b-45">
-						Janobe Source Code
+						Web Village
 					</span>
 
 				 	<?php echo check_message(); ?>

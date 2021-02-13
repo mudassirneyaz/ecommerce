@@ -239,7 +239,7 @@ $query = "SELECT * FROM `tblsummary` s ,`tblcustomer` c
 		 		 <p>Please print this as a proof of purchased</p><br/>
 		  	  <p>We hope you enjoy your purchased products. Have a nice day!</p>
 		  	  <p>Sincerely.</p>
-		  	  <h4><a href="https://bit.ly/2LPn9Wu">Janobe Source Code</a></h4>
+		  	  <h4><a href="https://bit.ly/2LPn9Wu">Web Village</a></h4>
 		  </div>
 		  <?php }?>
   </div> 
